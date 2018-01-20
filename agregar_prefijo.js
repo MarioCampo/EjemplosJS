@@ -1,0 +1,7 @@
+const makePrefixer = (prefijo) => establecerPalabraConPrefijo = (palabra) => console.log(`${prefijo}-${palabra}`)
+const prefijoRe = makePrefixer('Re')
+const prefijoAnte = makePrefixer('Ante')
+const prefijoContra = makePrefixer('Contra')
+prefijoRe('Bueno')
+prefijoAnte('Ayer')
+prefijoContra('Portada')
