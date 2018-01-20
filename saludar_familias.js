@@ -1,0 +1,7 @@
+const saludarFamilia = (apellido) => saludarMiembroDeFamilia = (nombre) => console.log(`Hola ${nombre} ${apellido}`)
+const saludarGomez = saludarFamilia('Gomez')
+const saludarPerez = saludarFamilia('Perez')
+const saludarRomero = saludarFamilia('Romero')
+saludarGomez('Pepito')
+saludarPerez('Fulanito')
+saludarRomero('Fulanita')
